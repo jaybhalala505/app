@@ -134,7 +134,7 @@ body{
 }
 .main .inner-main{
     display: block;
-    background-image: url(../jay/jay-assets/home-bg.png);
+    background-image: url(jay-assets/home-bg.png);
     background-repeat: no-repeat;   
     background-position: center;
     width: 100%;  
@@ -337,7 +337,7 @@ body{
 .main-thr {
     clear: both;
     display: block;
-    background-image: url(../jay-assets/box3-bg.jpg);
+    background-image: url(jay-assets/box3-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 20px 0px;
